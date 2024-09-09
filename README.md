@@ -19,11 +19,17 @@ The dataset includes the following tables:
 **Technologies Used**
 
 psycopg2: For connecting to and interacting with PostgreSQL databases.
+
 pandas: For data manipulation and analysis, especially handling DataFrames.
+
 sqlalchemy: For SQL queries and database interactions with ORM support.
+
 matplotlib.pyplot: For creating static visualizations like bar charts and line plots.
+
 numpy: For numerical operations and handling arrays efficiently.
+
 plotly.express: For creating interactive visualizations.
+
 seaborn: For enhanced statistical data visualizations based on Matplotlib.
 
 **Visualizations**
