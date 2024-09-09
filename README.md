@@ -17,6 +17,7 @@ The dataset includes the following tables:
 
 **How? Analytical Approach and Insights**
 **Technologies Used**
+
 psycopg2: For connecting to and interacting with PostgreSQL databases.
 pandas: For data manipulation and analysis, especially handling DataFrames.
 sqlalchemy: For SQL queries and database interactions with ORM support.
@@ -26,6 +27,7 @@ plotly.express: For creating interactive visualizations.
 seaborn: For enhanced statistical data visualizations based on Matplotlib.
 
 **Visualizations**
+
 Interactive Scatter Plot: Visualizes average delivery days vs. total payment value.
 Bar Charts: Show order counts and revenue trends over time.
 Bubble Charts: Highlight demand for product categories across different locations.
